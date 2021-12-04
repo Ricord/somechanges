@@ -1,7 +1,9 @@
 fn main() {
     println!("Hello, world!");
     println!("Hello, world, from rust PC");
-    println!("pretend...");
+    ricord_says_nothing();
+}
 
-    println!("that i have did more test here");
+fn ricord_says_nothing() {
+    println!("nothing...");
 }
