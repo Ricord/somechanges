@@ -1,9 +1,15 @@
 fn main() {
     println!("Hello, world!");
     println!("Hello, world, from rust PC");
-    ricord_says_nothing();
+    aiqiqi521_says();
+
+    aiqiqi521_says2();
 }
 
-fn ricord_says_nothing() {
-    println!("nothing...");
+fn aiqiqi521_says() {
+    println!("ai qiqi 521 day by day");
+}
+
+fn aiqiqi521_says2() {
+    println!("i have to say two days");
 }
